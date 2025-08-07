@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: " Welcome to Kwasi's Profile"
+title: " Welcome to Kwasi's Profile!"
 author_profile: true
 redirect_from: 
   - /about/

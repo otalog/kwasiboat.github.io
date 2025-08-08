@@ -11,13 +11,14 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Finance, University of Tasmania, 2023 
+* Ph.D in Applied Mathematics, Jiangsu University, 2019 
+* Mphil in Actuarial Science, GitHub University, 2015
+* Bsc in Actuarial Science, GitHub University, 2015
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
+* March 2024: Data Analytics and Insight Officer
   * GitHub University
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users

@@ -7,6 +7,16 @@ redirect_from:
   - /about.html
 ---
 
+
+
+Dr. Kwasi Boateng is an accomplished academic and researcher with dual PhDs in Finance from the University of Tasmania, Australia, and Applied Mathematics from Jiangsu University, China. His interdisciplinary expertise spans socially responsible investment funds, environmental, social, and governance (ESG) performance, and complex mathematical modeling of nonlinear systems. In addition to his strong theoretical foundation, he is currently advancing his skills in data analytics, applying statistical, computational, and visualization techniques to extract insights from large datasets. His research has been published in reputable journals such as Mathematical Methods in the Applied Sciences and Advances in Mathematical Physics, reflecting his commitment to bridging academic rigor with practical applications.
+
+Professionally, Dr. Boateng has made significant contributions as a lecturer at the University of Tasmania, delivering engaging workshops in derivative markets, corporate finance, and economics for managers. Known for his innovative teaching methods tailored to diverse learning styles, he fosters interactive and impactful learning experiences. Dr.Boateng is currently Analytics and Insighty Officer at Department of Education Children and  Young Peopple in Hobart Tasmania. His expertise extends to developing advanced Power Bi reports, writing sophisticated Python queries fir ETL processes, and performing in-depth quantitative analysis, enabling robust decision-making regarding educatiobal policies accross the state. With his academic versatility, evolving data analytics capabilities, and dedication to solving real-world problems, Dr. Boateng stands out as a valuable asset to academic, research, and industry-focused initiatives.
+
+
+
+
+
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!

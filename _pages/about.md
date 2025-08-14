@@ -4,6 +4,8 @@ title: " Welcome to Kwasi's Profile!"
 author_profile: true
 redirect_from: 
   - /about/
+  - /about.html
+---
     
 Dr. Kwasi Boateng is an accomplished academic and researcher with dual PhDs in Finance from the University of Tasmania, Australia, and Applied Mathematics from Jiangsu University, China. His interdisciplinary expertise spans socially responsible investment funds, environmental, social, and governance (ESG) performance, and complex mathematical modeling of nonlinear systems. In addition to his strong theoretical foundation, he is currently advancing his skills in data analytics, applying statistical, computational, and visualization techniques to extract insights from large datasets. His research has been published in reputable journals such as Mathematical Methods in the Applied Sciences and Advances in Mathematical Physics, reflecting his commitment to bridging academic rigor with practical applications.
 

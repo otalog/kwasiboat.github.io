@@ -10,7 +10,11 @@ location: "City, Country"
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
+UTAS Hobart
+Financial Management (Postgraduate, Super-sized (>100 students) Class)
+* Term 1 2022, Term 1 2023, Term 2 2024, Term 1 2025, 3 sections
+* Incorporated MorningStar  Data in major assignment 
+Sample Student Comments: 
 ======
 
 Heading 2

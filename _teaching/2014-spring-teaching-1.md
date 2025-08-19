@@ -9,8 +9,8 @@ location: "City, Country"
 ---
 
 UTAS Hobart<br>
-Financial Management (Postgraduate, Super-sized (>100 students) Class)
-* Term 1 2022, Term 1 2023, Term 2 2024, Term 1 2025, 3 sections
+Principles of Financial Management (Postgraduate, Super-sized (>100 students) Class)
+* Term 1 2020, Term 1 2021, Term 1 2022, Term 1 2023,  Term 1 2024, Term 1 2025 sections
 * Incorporated MorningStar  Data in major assignment <br>
 
 Sample Student Comments: <br>

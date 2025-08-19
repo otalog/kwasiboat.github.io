@@ -15,8 +15,8 @@ main:
     url: /talks/    
 
   - title: "Teaching"
-    url:/_teaching/2014-spring-teaching-1.md    
-    #_teaching/2014-spring-teaching-1.md
+    url:/teaching/    
+    
   - title: "Portfolio"
     url: /portfolio/
         

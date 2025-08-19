@@ -22,8 +22,4 @@ Sample Student Comments: <br>
 * He is a warm and engaging lecturer whose explanations are clear and easy to understand. His teaching made challenging concepts accessible.
 * I particularly valued his “big picture” approach, which provided an overview of each week’s lecture before delving into details. As a visual learner, this method helped me perform better in the course. His use of real-world examples also made the subject of financial markets more meaningful and easier to grasp.
 
-Heading 2
-======
 
-Heading 3
-======

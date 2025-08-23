@@ -10,7 +10,7 @@ location: "City, Country"
 
 
 ### Data and Business Decision Making
-**Semester: 1** 2024, 2025
+**Semester: 1** 2024, 2025 *(Postgraduate, 2 sections)* 
 
 **Sample Student Comments:**  
 - *"The lecturer made complex data analysis concepts easy to understand by connecting them to practical business scenarios."*  

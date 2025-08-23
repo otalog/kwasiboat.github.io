@@ -25,9 +25,7 @@ location: "City, Country"
 
 
 ### Principles of Financial Management  
-*(Postgraduate, Super-sized Class >100 students)*  
-
-**Semester: 1** (2024, 2025)
+**Semester: 1** (2024, 2025) *(Postgraduate, Super-sized Class >100 students)* 
 
 - Incorporated **MorningStar Data** into major assignment.  
 

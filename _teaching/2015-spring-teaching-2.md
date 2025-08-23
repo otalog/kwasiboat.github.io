@@ -3,8 +3,8 @@ title: "Teaching experience 2"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2024-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
+venue: "University of Tasmania, Tasmanian School of Business and Economics"
+date: 2020-02-24
 location: "City, Country"
 ---
 
@@ -26,14 +26,25 @@ location: "City, Country"
     - Widely regarded as “the best lecturer at UTAS.”  
 
 
+---
 
+### Financial Markets  
+**Semesters:** 1 2021 – *2 sections*  
 
+**Sample Student Comments:**  
+- *"He seemed very enthusiastic about teaching. One thing that he did that was very effective was how he worked out the problems on the board. He showed us in depth how to solve every problem, and then solved more if we asked for another problem. Most teachers wouldn’t do that. Overall, his way of teaching is very effective."*  
+- *"Very active and always helpful."*  
 
-Heading 1
-======
+---
 
-Heading 2
-======
+##  Derivative Markets
+**Semester:** 2 2021 – *1 section*  
 
-Heading 3
-======
+**Sample Student Comments:**  
+- *"Very thorough and made good comprehensive tests. Great teacher and would definitely take him again if I could! I wish other finance teachers were as understanding and as helpful as him."*  
+- *"Kwasi was extremely helpful and always willing to help outside of class time as well."*  
+- *"Very enthusiastic teacher, kind, helpful, responds in a timely manner to emails... Overall, great teacher."*  
+- *"Professor Deng is a really good teacher! I can honestly say that he has provided a lot of help to students when needed."*  
+- *"He is amazing."*  
+- *"You are the most passionate teacher that I have ever had!"*  
+- *"Kwasi was always clearly excited about the course material which personally made myself more excited to learn the material..."*  

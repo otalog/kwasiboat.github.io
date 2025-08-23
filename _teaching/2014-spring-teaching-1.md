@@ -1,7 +1,7 @@
 ---
 title: "Teaching experience 1"
 collection: teaching
-type: "Postgraduate Unit"
+type: "Workshop"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University of Tasmania, Tasmanian School of Business and Economics"
 date: 2020-02-24

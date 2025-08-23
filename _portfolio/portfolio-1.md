@@ -3,7 +3,8 @@ title: "Python and SQL Projects"
 excerpt: "This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights"
 collection: portfolio
 ---
-## Portfolio  
+
+
 
 ### 🐍 Python Project  
 - **ETL Automation Pipeline**  
@@ -11,7 +12,7 @@ collection: portfolio
   - Improved data processing speed by 40% and reduced manual errors.  
   - [View Project](https://github.com/yourusername/etl-pipeline)  
 
----
+
 
 ### 🗄️ SQL Project  
 - **Complex Query Optimization**  

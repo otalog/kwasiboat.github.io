@@ -1,13 +1,13 @@
 ---
-title: "Jacobi elliptic function solutions and traveling wave solutions of the (2+ 1)‐dimensional Gardner‐KP equation"
+title: "Route optimization cold chain logistic distribution using greedy search method"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper uses the Modified Extended Direct Algebraic (MEDA) method to build fresh exact, periodic, trigonometric, hyperbolic, rational, triangular and soliton alternatives for the (2 + 1)‐dimensional Gardner KP equation. '
+excerpt: 'This work introduces the greedy search method to solve a capacitated vehicle route problem integrated by means of travelling salesman problem concept and to minimize transport cost at the same time'
 date: 2020-01-02
-venue: 'Mathematical Methods in the Applied Sciences'
-paperurl: 'https://onlinelibrary.wiley.com/doi/abs/10.1002/mma.6131'
-citation: 'K. Boateng et al.Mathematical Methods in the Applied Sciences (2020).'
+venue: 'Opsearch'
+paperurl: 'https://link.springer.com/article/10.1007/s12597-020-00459-4'
+citation: 'X. Qiang et al.OPSEARCH (2020)'
 ---
 
 

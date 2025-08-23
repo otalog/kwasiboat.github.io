@@ -4,9 +4,9 @@ collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'This paper uses the Modified Extended Direct Algebraic (MEDA) method to build fresh exact, periodic, trigonometric, hyperbolic, rational, triangular and soliton alternatives for the (2 + 1)‐dimensional Gardner KP equation. '
-date: 2024-02-17
-venue: 'https://onlinelibrary.wiley.com/doi/abs/10.1002/mma.6131'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+date: 2020-01-02
+venue: 'Mathematical Methods in the Applied Sciences'
+paperurl: 'https://onlinelibrary.wiley.com/doi/abs/10.1002/mma.6131'
 citation: 'K. Boateng et al.Mathematical Methods in the Applied Sciences (2020).'
 ---
 

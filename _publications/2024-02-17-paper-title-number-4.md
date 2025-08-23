@@ -4,7 +4,7 @@ collection: publications
 category: Published
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'This work introduces the greedy search method to solve a capacitated vehicle route problem integrated by means of travelling salesman problem concept and to minimize transport cost at the same time'
-date: 2020-12-17
+date: 2020-12-17 
 venue: 'Opsearch'
 paperurl: 'https://link.springer.com/article/10.1007/s12597-020-00459-4'
 citation: 'X. Qiang et al.OPSEARCH (2020)'

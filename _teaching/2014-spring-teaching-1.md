@@ -9,7 +9,7 @@ location: "City, Country"
 ---
 
 
-### Principles of Finance (Undergraduate) 
+### Data and Business Decision Making (Postgraduate) 
 **Semesters:** 1 (2024, 2025) – *2 sections*
 
 

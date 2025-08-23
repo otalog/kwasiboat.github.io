@@ -17,7 +17,7 @@ location: "City, Country"
 ---
 
 ### Corporate Finance (Undergraduate & Graduate, Small-Class Settings)
- **Semesters:** 1 (2020, 2022, 2023, 2024) – *2 sections* (6 sections; Average Evaluation: 98/100).  
+**Semesters:** 1 (2020, 2022, 2023, 2024) – *2 sections* (6 sections; Average Evaluation: 98/100).  
  
  **Sample Student Comments:**  
     - Passion, patience, and engaging teaching style.  

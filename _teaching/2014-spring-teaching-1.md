@@ -3,15 +3,31 @@ title: "Teaching experience 1"
 collection: teaching
 type: "Postgraduate Unit"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University of Tasmania, Finance"
+venue: ""University of Tasmania, Tasmanian School of Business and Economics""
 date: 2020-02-24
 location: "City, Country"
 ---
 
+
+### Data and Business Decision Making
+**Semester: 1** 2024, 2025
+
+**Sample Student Comments:**  
+- *"The lecturer made complex data analysis concepts easy to understand by connecting them to practical business scenarios."*  
+- *"I really appreciated how the course emphasized both technical skills and decision-making applications — very relevant for the real world."*  
+- *"The use of case studies and real datasets helped me see how analytics can drive better business strategies."*  
+- *"Explanations were clear, and the lecturer was always open to questions, which made the learning environment supportive and engaging."*  
+- *"I gained valuable hands-on experience with tools like Power BI and Python, which will be useful in my career."*  
+- *"The balance between theory and practice was excellent. The assignments challenged us but also reinforced our learning effectively."*  
+- *"The lecturer’s passion for analytics inspired me to explore further into data-driven decision making."*  
+
+
+
+
 ### Principles of Financial Management  
 *(Postgraduate, Super-sized Class >100 students)*  
 
-**Semester: 1 ** 2024, 2025
+**Semester: 1** 2024, 2025
 
 - Incorporated **MorningStar Data** into major assignment.  
 

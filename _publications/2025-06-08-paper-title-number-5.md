@@ -1,13 +1,13 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "Jacobi elliptic function solutions and traveling wave solutions of the (2+ 1)‐dimensional Gardner‐KP equation"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
+excerpt: 'This paper uses the Modified Extended Direct Algebraic (MEDA) method to build fresh exact, periodic, trigonometric, hyperbolic, rational, triangular and soliton alternatives for the (2 + 1)‐dimensional Gardner KP equation. '
 date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
+venue: 'https://onlinelibrary.wiley.com/doi/abs/10.1002/mma.6131'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+citation: 'K. Boateng et al.Mathematical Methods in the Applied Sciences (2020).'
 ---
 
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
+The fully integrable KP equation is one of the models that describes the evolution of nonlinear waves, the expansion of the well-known KdV equation, where the impacts of surface tension and viscosity are negligible. This paper uses the Modified Extended Direct Algebraic (MEDA) method to build fresh exact, periodic, trigonometric, hyperbolic, rational, triangular and soliton alternatives for the (2 + 1)-dimensional Gardner KP equation. These solutions that we discover in this article will help us understand the phenomena of the (2 + 1)-dimensional Gardner KP equation. Comparing the study in this paper and existing work, we find more exact solutions with soliton and periodic structures and the rational function solution in this paper is more general than the rational solution in existing literature. Most of the Jacobi elliptic function solutions and the mixed Jacobi elliptic function solutions to the (2 + 1)-dimensional Gardner KP equation discovered in this paper, to the best of our highest understanding are not seen in any existing paper until now.

@@ -1,4 +1,3 @@
-
 ---
 title: "Jacobi elliptic function solutions and traveling wave solutions of the (2+ 1)‐dimensional Gardner‐KP equation"
 collection: publications

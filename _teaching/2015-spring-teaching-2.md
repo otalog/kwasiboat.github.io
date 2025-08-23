@@ -15,7 +15,7 @@ location: "City, Country"
   - Students noted professionalism, deep subject knowledge, and willingness to provide extra help outside class.  
   - Recognized as approachable, kind, and effective at explaining concepts with clear examples.  
 
-- **Corporate Finance (Undergraduate & Graduate, Small-Class Settings)**
+### Corporate Finance (Undergraduate & Graduate, Small-Class Settings)
 - **Semesters:** 1 (2020, 2022, 2023, 2024) – *2 sections* (6 sections; Average Evaluation: 98/100).  
   - Received **"Provost Outstanding Courses Recognition"** for two consecutive years.  
   - Student feedback consistently highlighted:  
@@ -37,7 +37,7 @@ location: "City, Country"
 
 ---
 
-##  Derivative Markets (Undergraduate) 
+### Derivative Markets (Undergraduate) 
 **Semester:** 2 2021 – *1 section*  
 
 **Sample Student Comments:**  

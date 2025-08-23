@@ -15,8 +15,8 @@ location: "City, Country"
   - Students noted professionalism, deep subject knowledge, and willingness to provide extra help outside class.  
   - Recognized as approachable, kind, and effective at explaining concepts with clear examples.  
 
-- **Corporate Finance (Undergraduate & Graduate, Small-Class Settings)**  
-  - Taught Semester 1 in 2018, 2019, and 2020 (6 sections; Average Evaluation: 98/100).  
+- **Corporate Finance (Undergraduate & Graduate, Small-Class Settings)**
+- **Semesters:** 1 (2020, 2022, 2023, 2024) – *2 sections* (6 sections; Average Evaluation: 98/100).  
   - Received **"Provost Outstanding Courses Recognition"** for two consecutive years.  
   - Student feedback consistently highlighted:  
     - Passion, patience, and engaging teaching style.  
@@ -28,7 +28,7 @@ location: "City, Country"
 
 ---
 
-### Financial Markets  
+### Financial Markets (Undergraduate) 
 **Semesters:** 1 2021 – *2 sections*  
 
 **Sample Student Comments:**  
@@ -37,14 +37,14 @@ location: "City, Country"
 
 ---
 
-##  Derivative Markets
+##  Derivative Markets (Undergraduate) 
 **Semester:** 2 2021 – *1 section*  
 
 **Sample Student Comments:**  
 - *"Very thorough and made good comprehensive tests. Great teacher and would definitely take him again if I could! I wish other finance teachers were as understanding and as helpful as him."*  
 - *"Kwasi was extremely helpful and always willing to help outside of class time as well."*  
 - *"Very enthusiastic teacher, kind, helpful, responds in a timely manner to emails... Overall, great teacher."*  
-- *"Professor Deng is a really good teacher! I can honestly say that he has provided a lot of help to students when needed."*  
+- *"Kwasi is a really good teacher! I can honestly say that he has provided a lot of help to students when needed."*  
 - *"He is amazing."*  
 - *"You are the most passionate teacher that I have ever had!"*  
 - *"Kwasi was always clearly excited about the course material which personally made myself more excited to learn the material..."*  

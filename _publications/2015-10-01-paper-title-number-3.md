@@ -2,10 +2,9 @@
 title: "Socially Responsible Investment Funds: A Robust Test of Efficiency"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper test the efficiency of socially responsible investment (SRI) equity mutual funds using linear factor pricing models (LFPM) within the Large N Test of Alpha framework.'
 date: 2024-10-01 
- 'Working Paper'
+venue: 'Working Paper'
 paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4918720'
 ---
 

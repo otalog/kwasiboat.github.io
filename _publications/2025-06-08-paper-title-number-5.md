@@ -2,7 +2,7 @@
 title: "Jacobi elliptic function solutions and traveling wave solutions of the (2+ 1)‐dimensional Gardner‐KP equation"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: /publication/2025-06-08-paper-title-number-4
 excerpt: 'This paper uses the Modified Extended Direct Algebraic (MEDA) method to build fresh exact, periodic, trigonometric, hyperbolic, rational, triangular and soliton alternatives for the (2 + 1)‐dimensional Gardner KP equation. '
 date: 2020-01-02
 venue: 'Mathematical Methods in the Applied Sciences'

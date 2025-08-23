@@ -15,7 +15,7 @@ Principles of Financial Management (Postgraduate, Super-sized (>100 students) Cl
 
 Sample Student Comments: <br>
 * The lecturer/tutor was highly professional, demonstrated deep knowledge of the subject, and was always willing to provide extra support outside of class to address questions or concerns.
-* One of the strongest aspects of Wesley Deng’s teaching is his ability to break down complex topics into manageable parts and connect them with practical, real-world examples.
+* One of the strongest aspects of Kwasi Boateng’s teaching is his ability to break down complex topics into manageable parts and connect them with practical, real-world examples.
 * He explains concepts with clarity and teaches effectively. I have gained a great deal of understanding from his classes.
 * Kwasi presented the material very clearly and structured the course well. He was transparent about assessments and always approachable and helpful when students asked questions.
 * Kwasi is an amiable and passionate teacher. His tutorials are logically structured, easy to follow, and enriched my financial knowledge significantly.

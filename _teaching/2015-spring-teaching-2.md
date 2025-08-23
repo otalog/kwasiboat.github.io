@@ -11,9 +11,10 @@ location: "City, Country"
 ### Principles of Finance (Undergraduate)  
 **Semesters:** 2 (2020, 2022, 2023, 2024) – *2 sections*
 
-- **Incorporated AI and Fintech components as early as 2020**
+**Incorporated AI and Fintech components as early as 2020**
   - Students noted professionalism, deep subject knowledge, and willingness to provide extra help outside class.  
   - Recognized as approachable, kind, and effective at explaining concepts with clear examples.  
+
 ---
 
 ### Corporate Finance (Undergraduate & Graduate, Small-Class Settings)

@@ -1,7 +1,7 @@
 ---
 title: "Route optimization cold chain logistic distribution using greedy search method"
 collection: publications
-category: Published
+category: Conference
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'This work introduces the greedy search method to solve a capacitated vehicle route problem integrated by means of travelling salesman problem concept and to minimize transport cost at the same time'
 date: 2020-12-17 

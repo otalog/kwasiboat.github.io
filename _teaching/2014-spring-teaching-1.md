@@ -9,8 +9,9 @@ location: "City, Country"
 ---
 
 
-### Data and Business Decision Making
-**Semester: 1** (2024, 2025) *(Postgraduate, 2 sections)* 
+### Principles of Finance (Undergraduate) 
+**Semesters:** 1 (2024, 2025) – *2 sections*
+
 
 **Sample Student Comments:**  
 - *"The lecturer made complex data analysis concepts easy to understand by connecting them to practical business scenarios."*  

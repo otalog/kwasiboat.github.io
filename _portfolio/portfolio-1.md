@@ -7,10 +7,10 @@ collection: portfolio
 
 
 ### 🐍 Python Project  
-- **ETL Automation Pipeline**  
-  - Built an automated ETL workflow using Python (Pandas & SQLAlchemy) to extract, transform, and load education datasets.  
+- **My ETL Automation Pipeline I taught in Class **  
+  - Built an automated ETL workflow using Python (Pandas & SQLAlchemy) to extract and transform sales datasets.  
   - Improved data processing speed by 40% and reduced manual errors.  
-  - [View Project](https://github.com/yourusername/etl-pipeline)
+  - [View Project](https://github.com/otalog/Python_Course)
  
 
 
